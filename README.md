@@ -1,5 +1,5 @@
 # omni-invaders
-This was the first game I made using Java Swing! It’s an object-oriented clone of Space Invaders, and it taught me a lot about arrays and inheritance.
+This was the first game I ever made with Java. The code and gameplay is pretty straightfoward, but it taught me a lot about arrays and inheritance!
 
 **Player Controls:**
 
